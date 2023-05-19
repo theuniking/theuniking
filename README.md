@@ -15,6 +15,7 @@ I absolutely love coding. My delight in problem solving and learning is what mak
 ![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=)
 ![ReactiveX](https://img.shields.io/static/v1?style=for-the-badge&message=RxJava&color=B7178C&logo=ReactiveX&logoColor=FFFFFF&label=)
 
@@ -28,21 +29,20 @@ I absolutely love coding. My delight in problem solving and learning is what mak
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![SVG](https://img.shields.io/badge/Svg-FFB13B?logo=svg&logoColor=black&style=for-the-badge)
-![React.js](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Web Services
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=302000&logo=Firebase&logoColor=e09200&label=)
-![Google Cloud Platform](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud+Platform&color=0f1f38&logo=Google+Cloud&logoColor=4285F4&label=)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=1c1c1c&logo=Google+Play&logoColor=808080&label=)
 
 ### Working with
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20photoshop-0c273b?logo=adobe+photoshop&style=for-the-badge)
 ![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=362001&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/Figma-4f190c?logo=figma&logoColor=F24E1E&style=for-the-badge)
-![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
+![Web Storm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
  
 
